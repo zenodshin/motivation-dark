@@ -20,4 +20,4 @@ at some point as well.
 2.  With Google Chrome, go to `chrome://extensions`
 3.  Click `Add unpacked extension...`
 4.  Choose the folder you just cloned/downloaded.
-5.  Check Google Chrome's new tab page!
+5.  Check Google Chrome's new tab page, enter DOB.
