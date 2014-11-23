@@ -2,7 +2,7 @@
   "name": "Instant Motivation",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Make the most of it.",
+  "description": "A new tab page to help focus on what's really important",
   "homepage_url": "http://extensionizr.com",
   "content_security_policy": "script-src 'unsafe-eval'; object-src 'self'",
   "icons": {
