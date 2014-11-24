@@ -5,6 +5,8 @@ A chrome extension that replaces your chrome new tab page with your ever-rising
 age, on a dark background. Based off of maccman's awesome
 [motivation](https://github.com/maccman/motivation).
 
+![](age.png)
+
 ## About
 
 This chrome extension is based off of the freely available
