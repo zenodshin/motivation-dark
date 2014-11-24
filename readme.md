@@ -2,7 +2,7 @@ darkMotivation
 ==============
 
 A chrome extension that replaces your chrome new tab page with your ever-rising
-age, on a dark background.
+age, on a dark background. Based off of maccmans [motivation](https://github.com/maccman/motivation)
 
 ## About
 
@@ -11,8 +11,7 @@ This chrome extension is based off of the freely available
 chrome app. The screenshot on the app store showed a dark background, but I
 couldn't find a way to change that in the app settings. I made this variation
 to match my chrome theme. I also plan on adding a bookmark searcher at some
-point in the future. Also one day I may push it to the chrome extension store
-at some point as well.
+point in the future.
 
 ## Installing
 
