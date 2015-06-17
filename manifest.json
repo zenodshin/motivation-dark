@@ -1,17 +1,10 @@
 {
   "name": "Instant Motivation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
   "description": "A new tab page to help focus on what's really important",
-  "homepage_url": "http://extensionizr.com",
+  "homepage_url": "http://github.com/jeremywrnr/dark-motivation",
   "content_security_policy": "script-src 'unsafe-eval'; object-src 'self'",
-  "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
-  },
-  "default_locale": "en",
-  "options_page": "src/options_custom/index.html",
   "chrome_url_overrides": {
     "newtab": "dashboard.html"
   },
