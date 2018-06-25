@@ -2,8 +2,7 @@ dark-motivation
 ==============
 
 A chrome extension that replaces your chrome new tab page with your ever-rising
-age, on a dark background. Based off of [this](https://github.com/maccman/motivation).
-
+age, on a dark background.
 ![interface-example](age.png)
 
 ## About
@@ -21,3 +20,5 @@ variation as a result, to get the darker background.
 3. Click `Add unpacked extension...`
 4. Choose the folder you just cloned/downloaded.
 5. Check Google Chrome's new tab page, enter DOB.
+
+Based off of [this](https://github.com/maccman/motivation).
